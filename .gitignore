@@ -1,0 +1,1 @@
+-e "config.inc.php\ncache/\nfiles/\npublic/\nuploads/\n*.log\n.DS_Store\n.vscode/" 
